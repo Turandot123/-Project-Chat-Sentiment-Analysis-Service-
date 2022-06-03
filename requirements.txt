@@ -1,4 +1,4 @@
-bottle==0.12.17
+bottle==0.12.20
 dnspython==1.16.0
 nltk==3.4.5
 numpy==1.17.4
